@@ -48,7 +48,7 @@ class MyScreen extends StatelessWidget{
 <table>
 <tr>
     <td>
-        <img src="https://raw.githubusercontent.com/mohammed-akl/material_card/image.jpg" alt="">
+        <img src="https://raw.githubusercontent.com/mohammed-akl/material_card/master/image.jpg" alt="">
     </td>
 </tr>
 </table>
